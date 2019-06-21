@@ -1,0 +1,1208 @@
+[
+    {
+      "date": "2019-06-21T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "In the Mood for Love",
+          "Year": "2000",
+          "Rated": "PG",
+          "Released": "09 Mar 2001",
+          "Runtime": "98 min",
+          "Genre": "Drama, Romance",
+          "Director": "Kar-Wai Wong",
+          "Writer": "Kar-Wai Wong",
+          "Actors": "Maggie Cheung, Tony Chiu-Wai Leung, Ping Lam Siu, Tung Cho 'Joe' Cheung",
+          "Plot": "Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+          "Language": "Cantonese, Shanghainese, French, Spanish",
+          "Country": "Hong Kong, China",
+          "Awards": "Nominated for 1 BAFTA Film Award. Another 44 wins & 47 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "90%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "85/100"
+            }
+          ],
+          "Metascore": "85",
+          "imdbRating": "8.1",
+          "imdbVotes": "105,461",
+          "imdbID": "tt0118694",
+          "Type": "movie",
+          "DVD": "05 Mar 2002",
+          "BoxOffice": "N/A",
+          "Production": "USA Films",
+          "Website": "http://www.wkw-inthemoodforlove.com",
+          "Response": "True"
+        },
+        {
+          "Title": "Fantastic Planet",
+          "Year": "1973",
+          "Rated": "PG",
+          "Released": "01 Dec 1973",
+          "Runtime": "72 min",
+          "Genre": "Animation, Sci-Fi",
+          "Director": "René Laloux",
+          "Writer": "Stefan Wul (novel), Roland Topor (adaptation), René Laloux (adaptation)",
+          "Actors": "Jennifer Drake, Eric Baugin, Jean Topart, Jean Valmont",
+          "Plot": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.",
+          "Language": "French, Czech",
+          "Country": "France, Czechoslovakia",
+          "Awards": "1 win & 2 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYjhhMDFlZDctYzg1Mi00ZmZiLTgyNTgtM2NkMjRkNzYwZmQ0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.8/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "89%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "7.8",
+          "imdbVotes": "20,216",
+          "imdbID": "tt0070544",
+          "Type": "movie",
+          "DVD": "23 Oct 2007",
+          "BoxOffice": "N/A",
+          "Production": "New World Pictures",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Oh, Sun",
+          "Year": "1967",
+          "Rated": "N/A",
+          "Released": "04 Jan 1973",
+          "Runtime": "98 min",
+          "Genre": "Drama",
+          "Director": "Med Hondo",
+          "Writer": "Med Hondo",
+          "Actors": "Yane Barry, Bernard Bresson, Greg Germain, Robert Liensol",
+          "Plot": "A native of Mauritania is delighted when he is chosen to work in Paris. Hoping to parlay the experience into a better life for himself, he eagerly prepares for his departure from his native...",
+          "Language": "French, Arabic",
+          "Country": "France, Mauritania",
+          "Awards": "1 win.",
+          "Poster": "N/A",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.4/10"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "7.4",
+          "imdbVotes": "67",
+          "imdbID": "tt0062285",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "N/A",
+          "Production": "N/A",
+          "Website": "N/A",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-28T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "The Love Witch",
+          "Year": "2016",
+          "Rated": "Unrated",
+          "Released": "10 Mar 2017",
+          "Runtime": "120 min",
+          "Genre": "Romance, Thriller",
+          "Director": "Anna Biller",
+          "Writer": "Anna Biller",
+          "Actors": "Samantha Robinson, Gian Keys, Laura Waddell, Jeffrey Vincent Parise",
+          "Plot": "A modern-day witch uses spells and magic to get men to fall in love with her.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "3 wins & 3 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDEyMjQwNV5BMl5BanBnXkFtZTgwNDQ1MjMwMDI@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.2/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "95%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "82/100"
+            }
+          ],
+          "Metascore": "82",
+          "imdbRating": "6.2",
+          "imdbVotes": "9,153",
+          "imdbID": "tt3908142",
+          "Type": "movie",
+          "DVD": "14 Mar 2017",
+          "BoxOffice": "$226,223",
+          "Production": "Oscilloscope Laboratories",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "The Craft",
+          "Year": "1996",
+          "Rated": "R",
+          "Released": "03 May 1996",
+          "Runtime": "101 min",
+          "Genre": "Drama, Fantasy, Horror, Thriller",
+          "Director": "Andrew Fleming",
+          "Writer": "Peter Filardi (story), Peter Filardi (screenplay), Andrew Fleming (screenplay)",
+          "Actors": "Robin Tunney, Fairuza Balk, Neve Campbell, Rachel True",
+          "Plot": "A newcomer to a Catholic prep high school falls in with a trio of outcast teenage girls who practice witchcraft, and they all soon conjure up various spells and curses against those who anger them.",
+          "Language": "English, French",
+          "Country": "USA",
+          "Awards": "1 win & 2 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BZTBkMWE1NGItZTgxMi00ZTE0LWIzZjAtNzQ5ZGZlZTQxN2EwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.3/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "57%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "6.3",
+          "imdbVotes": "68,363",
+          "imdbID": "tt0115963",
+          "Type": "movie",
+          "DVD": "02 Jul 1997",
+          "BoxOffice": "N/A",
+          "Production": "Sony Pictures Home Entertainment",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Ganja & Hess",
+          "Year": "1973",
+          "Rated": "R",
+          "Released": "20 Apr 1973",
+          "Runtime": "110 min",
+          "Genre": "Drama, Fantasy, Horror",
+          "Director": "Bill Gunn",
+          "Writer": "Bill Gunn",
+          "Actors": "Duane Jones, Marlene Clark, Bill Gunn, Sam L. Waymon",
+          "Plot": "After being stabbed with an ancient, germ-infested knife, a doctor's assistant finds himself with an insatiable desire for blood.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "N/A",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxNjI5OTI1NF5BMl5BanBnXkFtZTgwNTI2OTY0NTM@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.2/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "86%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "6.2",
+          "imdbVotes": "999",
+          "imdbID": "tt0068619",
+          "Type": "movie",
+          "DVD": "14 Jul 1998",
+          "BoxOffice": "N/A",
+          "Production": "Kelly/Jordan Enterprises",
+          "Website": "N/A",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-05T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "Persepolis",
+          "Year": "2007",
+          "Rated": "PG-13",
+          "Released": "22 Feb 2008",
+          "Runtime": "96 min",
+          "Genre": "Animation, Biography, Drama, History, War",
+          "Director": "Vincent Paronnaud, Marjane Satrapi",
+          "Writer": "Marjane Satrapi (comic), Vincent Paronnaud (scenario)",
+          "Actors": "Chiara Mastroianni, Danielle Darrieux, Catherine Deneuve, Simon Abkarian",
+          "Plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+          "Language": "French, English, Persian, German",
+          "Country": "France, USA",
+          "Awards": "Nominated for 1 Oscar. Another 28 wins & 54 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMGRkZThmYzEtYjQxZC00OWEzLThjYjAtYzFkMjY0NGZkZWI4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "96%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "90/100"
+            }
+          ],
+          "Metascore": "90",
+          "imdbRating": "8.1",
+          "imdbVotes": "81,930",
+          "imdbID": "tt0808417",
+          "Type": "movie",
+          "DVD": "24 Jun 2008",
+          "BoxOffice": "$4,400,000",
+          "Production": "Sony Pictures Classics",
+          "Website": "http://www.sonyclassics.com/persepolis/",
+          "Response": "True"
+        },
+        {
+          "Title": "Waltz with Bashir",
+          "Year": "2008",
+          "Rated": "R",
+          "Released": "12 Jun 2008",
+          "Runtime": "90 min",
+          "Genre": "Animation, Biography, Drama, History, Mystery, War",
+          "Director": "Ari Folman",
+          "Writer": "Ari Folman",
+          "Actors": "Ari Folman, Ori Sivan, Ronny Dayag, Shmuel Frenkel",
+          "Plot": "An Israeli film director interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
+          "Language": "Hebrew, Arabic, German, English",
+          "Country": "Israel, France, Germany, USA, Finland, Switzerland, Belgium, Australia",
+          "Awards": "Nominated for 1 Oscar. Another 44 wins & 58 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNjM2OTI3NzQyNl5BMl5BanBnXkFtZTcwNjkzNzQ5MQ@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.0/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "96%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "91/100"
+            }
+          ],
+          "Metascore": "91",
+          "imdbRating": "8.0",
+          "imdbVotes": "52,295",
+          "imdbID": "tt1185616",
+          "Type": "movie",
+          "DVD": "23 Jun 2009",
+          "BoxOffice": "$2,300,000",
+          "Production": "Sony Pictures Classics",
+          "Website": "http://www.sonyclassics.com/waltzwithbashir",
+          "Response": "True"
+        },
+        {
+          "Title": "Shark Tale",
+          "Year": "2004",
+          "Rated": "PG",
+          "Released": "01 Oct 2004",
+          "Runtime": "90 min",
+          "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+          "Director": "Bibo Bergeron, Vicky Jenson, Rob Letterman",
+          "Writer": "Michael J. Wilson (screenplay), Rob Letterman (screenplay), Scott Aukerman (additional dialogue), Alec Berg (additional dialogue), Sean Bishop (additional dialogue), BJ Porter (additional dialogue), Jeff Schaffer (additional dialogue), Lona Williams (additional dialogue), David P. Smith (additional dialogue), David Soren (additional dialogue)",
+          "Actors": "Will Smith, Robert De Niro, Renée Zellweger, Jack Black",
+          "Plot": "When a son of a gangster shark boss is accidentally killed while on the hunt, his would-be prey and his vegetarian brother decide to use the incident to their own advantage.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "Nominated for 1 Oscar. Another 3 wins & 15 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.0/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "36%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "48/100"
+            }
+          ],
+          "Metascore": "48",
+          "imdbRating": "6.0",
+          "imdbVotes": "154,594",
+          "imdbID": "tt0307453",
+          "Type": "movie",
+          "DVD": "08 Feb 2005",
+          "BoxOffice": "$160,762,022",
+          "Production": "DreamWorks SKG",
+          "Website": "http://www.sharktale.com/",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-12T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "Jumanji: Welcome to the Jungle",
+          "Year": "2017",
+          "Rated": "PG-13",
+          "Released": "20 Dec 2017",
+          "Runtime": "119 min",
+          "Genre": "Action, Adventure, Comedy, Fantasy",
+          "Director": "Jake Kasdan",
+          "Writer": "Chris McKenna (screenplay by), Erik Sommers (screenplay by), Scott Rosenberg (screenplay by), Jeff Pinkner (screenplay by), Chris McKenna (screen story by), Chris Van Allsburg (based on the book \"Jumanji\" by), Greg Taylor (based on the film \"Jumanji\" screen story by), Jim Strain (based on the film \"Jumanji\" screen story by), Chris Van Allsburg (based on the film \"Jumanji\" screen story by), Jonathan Hensleigh (based on the film \"Jumanji\" screenplay by), Greg Taylor (based on the film \"Jumanji\" screenplay by), Jim Strain (based on the film \"Jumanji\" screenplay by)",
+          "Actors": "Dwayne Johnson, Kevin Hart, Jack Black, Karen Gillan",
+          "Plot": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "2 wins & 3 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.0/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "76%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "58/100"
+            }
+          ],
+          "Metascore": "58",
+          "imdbRating": "7.0",
+          "imdbVotes": "240,479",
+          "imdbID": "tt2283362",
+          "Type": "movie",
+          "DVD": "20 Mar 2018",
+          "BoxOffice": "$393,201,353",
+          "Production": "Columbia Pictures",
+          "Website": "http://www.jumanjimovie.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "The Babadook",
+          "Year": "2014",
+          "Rated": "Not Rated",
+          "Released": "28 Nov 2014",
+          "Runtime": "94 min",
+          "Genre": "Drama, Horror",
+          "Director": "Jennifer Kent",
+          "Writer": "Jennifer Kent",
+          "Actors": "Essie Davis, Noah Wiseman, Hayley McElhinney, Daniel Henshall",
+          "Plot": "A widowed mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.",
+          "Language": "English",
+          "Country": "Australia, Canada",
+          "Awards": "55 wins & 61 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.8/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "98%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "86/100"
+            }
+          ],
+          "Metascore": "86",
+          "imdbRating": "6.8",
+          "imdbVotes": "170,529",
+          "imdbID": "tt2321549",
+          "Type": "movie",
+          "DVD": "13 Apr 2015",
+          "BoxOffice": "N/A",
+          "Production": "IFC Films",
+          "Website": "http://www.thebabadook.com",
+          "Response": "True"
+        },
+        {
+          "Title": "The Host",
+          "Year": "2006",
+          "Rated": "R",
+          "Released": "30 Mar 2007",
+          "Runtime": "120 min",
+          "Genre": "Action, Drama, Horror, Sci-Fi",
+          "Director": "Joon-ho Bong",
+          "Writer": "Joon-ho Bong (screenplay), Won-jun Ha (screenplay), Chul-hyun Baek (screenplay)",
+          "Actors": "Kang-ho Song, Hee-Bong Byun, Hae-il Park, Doona Bae",
+          "Plot": "A monster emerges from Seoul's Han River and begins attacking people. One victim's loving family does what it can to rescue her from its clutches.",
+          "Language": "Korean, English",
+          "Country": "South Korea",
+          "Awards": "25 wins & 25 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyNTAwOTUyNl5BMl5BanBnXkFtZTYwODY0MTQ3._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.0/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "93%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "85/100"
+            }
+          ],
+          "Metascore": "85",
+          "imdbRating": "7.0",
+          "imdbVotes": "84,370",
+          "imdbID": "tt0468492",
+          "Type": "movie",
+          "DVD": "24 Jul 2007",
+          "BoxOffice": "$2,010,000",
+          "Production": "Magnolia Pictures",
+          "Website": "http://www.hostmovie.com/",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-19T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "Pariah",
+          "Year": "2011",
+          "Rated": "R",
+          "Released": "20 Jan 2011",
+          "Runtime": "86 min",
+          "Genre": "Drama",
+          "Director": "Dee Rees",
+          "Writer": "Dee Rees",
+          "Actors": "Adepero Oduye, Pernell Walker, Aasha Davis, Charles Parnell",
+          "Plot": "A Brooklyn teenager juggles conflicting identities and risks friendship, heartbreak, and family in a desperate search for sexual expression.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "15 wins & 28 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTQyNTY3NV5BMl5BanBnXkFtZTcwODk0ODk2Ng@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.2/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "95%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "79/100"
+            }
+          ],
+          "Metascore": "79",
+          "imdbRating": "7.2",
+          "imdbVotes": "5,424",
+          "imdbID": "tt1233334",
+          "Type": "movie",
+          "DVD": "24 Apr 2012",
+          "BoxOffice": "$758,099",
+          "Production": "Focus Features",
+          "Website": "http://PariahMovie.com",
+          "Response": "True"
+        },
+        {
+          "Title": "Black Dynamite",
+          "Year": "2009",
+          "Rated": "R",
+          "Released": "13 Jan 2010",
+          "Runtime": "84 min",
+          "Genre": "Action, Comedy",
+          "Director": "Scott Sanders",
+          "Writer": "Michael Jai White (screenplay), Byron Minns (screenplay), Scott Sanders (screenplay), Michael Jai White (story), Byron Minns (story)",
+          "Actors": "Phyllis Applegate, Obba Babatundé, William Bassett, Troy Lindsey Brown",
+          "Plot": "Black Dynamite is the greatest African-American action star of the 1970s. When his only brother is killed by The Man, it's up to him to find justice.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "1 win & 4 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BODMyM2JiYzMtODY3OS00ODExLTg0YzYtYWNlZTczMDUzY2I3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.4/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "83%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "65/100"
+            }
+          ],
+          "Metascore": "65",
+          "imdbRating": "7.4",
+          "imdbVotes": "42,853",
+          "imdbID": "tt1190536",
+          "Type": "movie",
+          "DVD": "16 Feb 2010",
+          "BoxOffice": "$131,862",
+          "Production": "Sony Pictures",
+          "Website": "http://www.blackdynamite.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "The Wrestler",
+          "Year": "2008",
+          "Rated": "R",
+          "Released": "30 Jan 2009",
+          "Runtime": "109 min",
+          "Genre": "Drama, Sport",
+          "Director": "Darren Aronofsky",
+          "Writer": "Robert Siegel",
+          "Actors": "Mickey Rourke, Marisa Tomei, Evan Rachel Wood, Mark Margolis",
+          "Plot": "A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.",
+          "Language": "English",
+          "Country": "USA, France",
+          "Awards": "Nominated for 2 Oscars. Another 57 wins & 86 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.9/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "98%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "81/100"
+            }
+          ],
+          "Metascore": "81",
+          "imdbRating": "7.9",
+          "imdbVotes": "276,953",
+          "imdbID": "tt1125849",
+          "Type": "movie",
+          "DVD": "21 Apr 2009",
+          "BoxOffice": "$26,136,413",
+          "Production": "Fox Searchlight Pictures",
+          "Website": "http://www.thewrestlermovie.com/index.html",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-26T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "Human Traffic",
+          "Year": "1999",
+          "Rated": "R",
+          "Released": "05 May 2000",
+          "Runtime": "99 min",
+          "Genre": "Comedy, Music",
+          "Director": "Justin Kerrigan",
+          "Writer": "Justin Kerrigan",
+          "Actors": "John Simm, Lorraine Pilkington, Shaun Parkes, Nicola Reynolds",
+          "Plot": "Five friends spend one lost weekend in a mix of music, love and club culture.",
+          "Language": "English",
+          "Country": "UK, Ireland",
+          "Awards": "9 wins & 7 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZlMjIxZjgtZGJiMC00ODAwLWJhNWYtYWJkZDg2Y2VkM2QyXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.1/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "59%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "53/100"
+            }
+          ],
+          "Metascore": "53",
+          "imdbRating": "7.1",
+          "imdbVotes": "21,726",
+          "imdbID": "tt0188674",
+          "Type": "movie",
+          "DVD": "12 Dec 2000",
+          "BoxOffice": "N/A",
+          "Production": "Miramax Films",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Paris Is Burning",
+          "Year": "1990",
+          "Rated": "R",
+          "Released": "01 Aug 1991",
+          "Runtime": "71 min",
+          "Genre": "Documentary",
+          "Director": "Jennie Livingston",
+          "Writer": "N/A",
+          "Actors": "Brooke Xtravaganza, André Christian, Dorian Corey, Paris Duprée",
+          "Plot": "A chronicle of New York's drag scene in the 1980s, focusing on balls, voguing and the ambitions and dreams of those who gave the era its warmth and vitality.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "16 wins & 1 nomination.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTc4MjQwMV5BMl5BanBnXkFtZTcwNjg5MTAzMQ@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "100%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "8.1",
+          "imdbVotes": "8,880",
+          "imdbID": "tt0100332",
+          "Type": "movie",
+          "DVD": "06 Sep 2005",
+          "BoxOffice": "N/A",
+          "Production": "Academy Entertainment",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "King of New York",
+          "Year": "1990",
+          "Rated": "R",
+          "Released": "29 Aug 1991",
+          "Runtime": "103 min",
+          "Genre": "Crime, Thriller",
+          "Director": "Abel Ferrara",
+          "Writer": "Nicholas St. John",
+          "Actors": "Christopher Walken, David Caruso, Laurence Fishburne, Victor Argo",
+          "Plot": "A drug kingpin is released from prison and seeks to take total control of the criminal underworld in order to give back to the community.",
+          "Language": "English",
+          "Country": "Italy",
+          "Awards": "1 win & 2 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.0/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "71%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "7.0",
+          "imdbVotes": "27,448",
+          "imdbID": "tt0099939",
+          "Type": "movie",
+          "DVD": "15 Aug 2000",
+          "BoxOffice": "N/A",
+          "Production": "Live Home Video",
+          "Website": "N/A",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-02T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "A Most Violent Year",
+          "Year": "2014",
+          "Rated": "R",
+          "Released": "30 Jan 2015",
+          "Runtime": "125 min",
+          "Genre": "Crime, Drama, Thriller",
+          "Director": "J.C. Chandor",
+          "Writer": "J.C. Chandor",
+          "Actors": "Oscar Isaac, Elyes Gabel, Jessica Chastain, Lorna Pruce",
+          "Plot": "In New York City 1981, an ambitious immigrant fights to protect his business and family during the most dangerous year in the city's history.",
+          "Language": "English, Spanish",
+          "Country": "United Arab Emirates, USA",
+          "Awards": "Nominated for 1 Golden Globe. Another 15 wins & 50 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4OTY4ODg3Ml5BMl5BanBnXkFtZTgwMTI1MTg1MzE@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.0/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "89%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "79/100"
+            }
+          ],
+          "Metascore": "79",
+          "imdbRating": "7.0",
+          "imdbVotes": "60,152",
+          "imdbID": "tt2937898",
+          "Type": "movie",
+          "DVD": "07 Apr 2015",
+          "BoxOffice": "N/A",
+          "Production": "A24",
+          "Website": "http://amostviolentyear.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "Us",
+          "Year": "2019",
+          "Rated": "R",
+          "Released": "22 Mar 2019",
+          "Runtime": "116 min",
+          "Genre": "Horror, Mystery, Thriller",
+          "Director": "Jordan Peele",
+          "Writer": "Jordan Peele",
+          "Actors": "Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker",
+          "Plot": "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.",
+          "Language": "English",
+          "Country": "USA, Japan, China",
+          "Awards": "N/A",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.1/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "94%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "81/100"
+            }
+          ],
+          "Metascore": "81",
+          "imdbRating": "7.1",
+          "imdbVotes": "107,752",
+          "imdbID": "tt6857112",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "N/A",
+          "Production": "Universal Pictures",
+          "Website": "https://www.usmovie.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "Perfect Blue",
+          "Year": "1997",
+          "Rated": "R",
+          "Released": "28 Feb 1998",
+          "Runtime": "81 min",
+          "Genre": "Animation, Horror, Mystery, Thriller",
+          "Director": "Satoshi Kon",
+          "Writer": "Sadayuki Murai (screenplay), Yoshikazu Takeuchi (novel), Rika Takahashi (translation), Lia Sargent (adaptation)",
+          "Actors": "Junko Iwao, Rica Matsumoto, Shinpachi Tsuji, Masaaki Ôkura",
+          "Plot": "A retired pop singer turned actress' sense of reality is shaken when she is stalked by an obsessed fan and seemingly a ghost of her past.",
+          "Language": "Japanese",
+          "Country": "Japan",
+          "Awards": "3 wins & 2 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYzA1MWE2OWQtY2Y1Zi00Njg0LTg5YTAtYzk1Mjk2N2JiNGE5XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.9/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "77%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "7.9",
+          "imdbVotes": "43,529",
+          "imdbID": "tt0156887",
+          "Type": "movie",
+          "DVD": "26 Jan 2010",
+          "BoxOffice": "N/A",
+          "Production": "Palm Pictures",
+          "Website": "N/A",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-09T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "Seconds",
+          "Year": "1966",
+          "Rated": "R",
+          "Released": "14 Nov 1966",
+          "Runtime": "106 min",
+          "Genre": "Sci-Fi, Thriller",
+          "Director": "John Frankenheimer",
+          "Writer": "Lewis John Carlino (screenplay), David Ely (based on the novel by)",
+          "Actors": "Frank Campanella, John Randolph, Frances Reid, Barbara Werle",
+          "Plot": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity - one that comes with its own price.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "Nominated for 1 Oscar. Another 1 win & 2 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BYmYwMmFjMDYtYTEyYS00NzUwLWIyZTMtNjFjZmVmZjhkY2M1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.7/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "91%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "7.7",
+          "imdbVotes": "14,037",
+          "imdbID": "tt0060955",
+          "Type": "movie",
+          "DVD": "08 Jan 2002",
+          "BoxOffice": "N/A",
+          "Production": "Paramount Pictures",
+          "Website": "http://www.criterion.com/",
+          "Response": "True"
+        },
+        {
+          "Title": "Tig Notaro: Happy To Be Here",
+          "Year": "2018",
+          "Rated": "TV-14",
+          "Released": "22 May 2018",
+          "Runtime": "58 min",
+          "Genre": "Comedy",
+          "Director": "Tig Notaro",
+          "Writer": "Tig Notaro",
+          "Actors": "Indigo Girls, Tig Notaro, Amy Ray, Emily Saliers",
+          "Plot": "Comedian Tig Notaro performs a stand-up set at the historic Heights Theater in Houston.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "N/A",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNWQxMDgzYjAtZTZkOS00MWM2LWIxNTUtZTUwYmUxMWQ0NzM1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.5/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "100%"
+            }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "6.5",
+          "imdbVotes": "833",
+          "imdbID": "tt8342946",
+          "Type": "movie",
+          "DVD": "22 May 2018",
+          "BoxOffice": "N/A",
+          "Production": "Netflix",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "The Rundown",
+          "Year": "2003",
+          "Rated": "PG-13",
+          "Released": "26 Sep 2003",
+          "Runtime": "104 min",
+          "Genre": "Action, Adventure, Comedy, Thriller",
+          "Director": "Peter Berg",
+          "Writer": "R.J. Stewart (story), R.J. Stewart (screenplay), James Vanderbilt (screenplay)",
+          "Actors": "Dwayne Johnson, Seann William Scott, Rosario Dawson, Christopher Walken",
+          "Plot": "A tough aspiring chef is hired to bring home a mobster's son from the Amazon but becomes involved in the fight against an oppressive town operator and the search for a legendary treasure.",
+          "Language": "English, Portuguese",
+          "Country": "USA",
+          "Awards": "2 wins & 3 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMWU3ZDYxZjMtZmYyOS00NWQyLTk1MmItNDg4ZWM2ZGQxOTNiXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.7/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "69%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "59/100"
+            }
+          ],
+          "Metascore": "59",
+          "imdbRating": "6.7",
+          "imdbVotes": "95,240",
+          "imdbID": "tt0327850",
+          "Type": "movie",
+          "DVD": "23 Mar 2004",
+          "BoxOffice": "$47,592,825",
+          "Production": "Universal Pictures",
+          "Website": "http://www.therundown.com/",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-16T11:10:04.781Z",
+      "movies": [
+        {
+          "Title": "Walking Tall",
+          "Year": "2004",
+          "Rated": "PG-13",
+          "Released": "02 Apr 2004",
+          "Runtime": "86 min",
+          "Genre": "Action, Crime",
+          "Director": "Kevin Bray",
+          "Writer": "Mort Briskin (earlier screenplay), David Klass (screenplay), Channing Gibson (screenplay), David Levien (screenplay), Brian Koppelman (screenplay)",
+          "Actors": "Michael Bowen, Johnny Knoxville, Dwayne Johnson, Neal McDonough",
+          "Plot": "A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "2 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MjYzNzM1N15BMl5BanBnXkFtZTcwMDcwNDc3NA@@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "6.3/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "26%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "44/100"
+            }
+          ],
+          "Metascore": "44",
+          "imdbRating": "6.3",
+          "imdbVotes": "65,785",
+          "imdbID": "tt0351977",
+          "Type": "movie",
+          "DVD": "28 Sep 2004",
+          "BoxOffice": "$45,860,039",
+          "Production": "MGM",
+          "Website": "http://www.walkingtallmovie.com/home.html",
+          "Response": "True"
+        },
+        {
+          "Title": "Sorry to Bother You",
+          "Year": "2018",
+          "Rated": "R",
+          "Released": "13 Jul 2018",
+          "Runtime": "111 min",
+          "Genre": "Comedy, Fantasy, Sci-Fi",
+          "Director": "Boots Riley",
+          "Writer": "Boots Riley",
+          "Actors": "LaKeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick",
+          "Plot": "In an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.",
+          "Language": "English",
+          "Country": "USA",
+          "Awards": "1 nomination.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwMmI4YzUtZGI2Mi00M2MwLWIyMmMtZWYzMWZmNzAyNmYwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.0/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "93%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "80/100"
+            }
+          ],
+          "Metascore": "80",
+          "imdbRating": "7.0",
+          "imdbVotes": "38,721",
+          "imdbID": "tt5688932",
+          "Type": "movie",
+          "DVD": "23 Oct 2018",
+          "BoxOffice": "N/A",
+          "Production": "Annapurna Pictures",
+          "Website": "http://sorrytobotheryou.movie/",
+          "Response": "True"
+        },
+        {
+          "Title": "RBG",
+          "Year": "2018",
+          "Rated": "PG",
+          "Released": "14 Sep 2018",
+          "Runtime": "98 min",
+          "Genre": "Documentary, Biography",
+          "Director": "Julie Cohen, Betsy West",
+          "Writer": "N/A",
+          "Actors": "Ruth Bader Ginsburg, Ann Kittner, Harryette Helsel, Nina Totenberg",
+          "Plot": "The exceptional life and career of U.S. Supreme Court Justice Ruth Bader Ginsburg, who has developed a breathtaking legal legacy while becoming an unexpected pop culture icon.",
+          "Language": "English, Italian, German, French",
+          "Country": "USA",
+          "Awards": "1 nomination.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNTE4Nzc0NDU3Nl5BMl5BanBnXkFtZTgwODIzMTQzNTM@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.5/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "94%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "71/100"
+            }
+          ],
+          "Metascore": "71",
+          "imdbRating": "7.5",
+          "imdbVotes": "8,143",
+          "imdbID": "tt7689964",
+          "Type": "movie",
+          "DVD": "28 Aug 2018",
+          "BoxOffice": "N/A",
+          "Production": "Magnolia Pictures",
+          "Website": "http://www.rbgmovie.com/",
+          "Response": "True"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-23T14:32:36.724Z",
+      "movies": [
+        {
+          "Title": "Isle of Dogs",
+          "Year": "2018",
+          "Rated": "PG-13",
+          "Released": "13 Apr 2018",
+          "Runtime": "101 min",
+          "Genre": "Animation, Adventure, Comedy, Drama, Fantasy, Sci-Fi",
+          "Director": "Wes Anderson",
+          "Writer": "Wes Anderson (story by), Roman Coppola (story by), Jason Schwartzman (story by), Kunichi Nomura (story by), Wes Anderson (screenplay by)",
+          "Actors": "Bryan Cranston, Koyu Rankin, Edward Norton, Bob Balaban",
+          "Plot": "Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.",
+          "Language": "English, Japanese",
+          "Country": "Germany, USA",
+          "Awards": "2 wins.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.9/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "90%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "82/100"
+            }
+          ],
+          "Metascore": "82",
+          "imdbRating": "7.9",
+          "imdbVotes": "108,697",
+          "imdbID": "tt5104604",
+          "Type": "movie",
+          "DVD": "17 Jul 2018",
+          "BoxOffice": "N/A",
+          "Production": "Scott Rudin Productions",
+          "Website": "http://www.foxmovies-jp.com/inugashima/",
+          "Response": "True"
+        },
+        {
+          "Title": "Paddington 2",
+          "Year": "2017",
+          "Rated": "PG",
+          "Released": "12 Jan 2018",
+          "Runtime": "103 min",
+          "Genre": "Adventure, Comedy, Family, Fantasy",
+          "Director": "Paul King",
+          "Writer": "Paul King, Simon Farnaby, Michael Bond (\"Paddington Bear\" created by), Jon Croker (additional material), Simon Stephenson (additional material)",
+          "Actors": "Michael Gambon, Imelda Staunton, Ben Whishaw, Madeleine Harris",
+          "Plot": "Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.",
+          "Language": "English",
+          "Country": "UK, France, USA",
+          "Awards": "Nominated for 3 BAFTA Film Awards. Another 3 wins & 7 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMmYwNWZlNzEtNjE4Zi00NzQ4LWI2YmUtOWZhNzZhZDYyNmVmXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "7.9/10"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "88/100"
+            }
+          ],
+          "Metascore": "88",
+          "imdbRating": "7.9",
+          "imdbVotes": "46,157",
+          "imdbID": "tt4468740",
+          "Type": "movie",
+          "DVD": "N/A",
+          "BoxOffice": "N/A",
+          "Production": "N/A",
+          "Website": "N/A",
+          "Response": "True"
+        },
+        {
+          "Title": "Paris, Texas",
+          "Year": "1984",
+          "Rated": "R",
+          "Released": "23 Aug 1984",
+          "Runtime": "145 min",
+          "Genre": "Drama",
+          "Director": "Wim Wenders",
+          "Writer": "L.M. Kit Carson (adaptation), Sam Shepard, Walter Donohue (story editor: Channel 4)",
+          "Actors": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Aurore Clément",
+          "Plot": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+          "Language": "English, Spanish",
+          "Country": "West Germany, France, UK, USA",
+          "Awards": "Nominated for 1 Golden Globe. Another 16 wins & 9 nominations.",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_SX300.jpg",
+          "Ratings": [
+            {
+              "Source": "Internet Movie Database",
+              "Value": "8.1/10"
+            },
+            {
+              "Source": "Rotten Tomatoes",
+              "Value": "97%"
+            },
+            {
+              "Source": "Metacritic",
+              "Value": "78/100"
+            }
+          ],
+          "Metascore": "78",
+          "imdbRating": "8.1",
+          "imdbVotes": "74,813",
+          "imdbID": "tt0087884",
+          "Type": "movie",
+          "DVD": "14 Dec 2004",
+          "BoxOffice": "N/A",
+          "Production": "20th Century Fox",
+          "Website": "N/A",
+          "Response": "True"
+        }
+      ]
+    }
+  ]
