@@ -22,7 +22,7 @@ The search should be by Title. It's should be a text input that with each charac
 
 ## URL for data
 
-[https://mariana-at-the-movies.herokuapp.com/](https://mariana-at-the-movies.herokuapp.com/)
+[https://mariana-at-the-movies.herokuapp.com/movies](https://mariana-at-the-movies.herokuapp.com/movies)
 
 ## Where to work
 
