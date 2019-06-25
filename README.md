@@ -19,3 +19,11 @@ The search should be by Title. It's should be a text input that with each charac
 ## Example
 
 ![Example Image](https://d1jfzjx68gj8xs.cloudfront.net/items/3q0I2N250A3m32321y2O/Screen%20Shot%202019-06-20%20at%206.44.02%20PM.png)
+
+## URL for data
+
+[https://mariana-at-the-movies.herokuapp.com/](https://mariana-at-the-movies.herokuapp.com/)
+
+## Where to work
+
+[https://codesandbox.io/s/](https://codesandbox.io/s/)
