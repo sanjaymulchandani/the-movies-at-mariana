@@ -15,3 +15,7 @@ Mariana Tek is hosting a series called The Movies@Mariana Tek events this summer
 There should be one filter and one search. The first is a Filter By Genre. This filter should be a dropdown list, populated with all genres of movies currently in our list.
 
 The search should be by Title. It's should be a text input that with each character shows each movie that matches and hides each movie that doesn't.
+
+## Example
+
+![Example Image](https://d1jfzjx68gj8xs.cloudfront.net/items/3q0I2N250A3m32321y2O/Screen%20Shot%202019-06-20%20at%206.44.02%20PM.png)
