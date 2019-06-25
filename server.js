@@ -18,9 +18,9 @@ const allowCrossDomain = function(req, res, next) {
 
 app.use(allowCrossDomain);
 
-app.get('/*', function (req, res, next) {
+app.get('/movies', function (req, res, next) {
     res.status(200);
-    res.sendFile(__dirname + '/' + path + '/index.json');
+    res.sendFile(`${__dirname}/movies/index.json`);
   });
 
 const port = (process.env.PORT || 3000);
